@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foodtitude</string>
+    <string name="selected_item">Selected type:</string>
+
+    <string-array name="recipeTypes">
+        <item>All</item>
+        <item>Breakfast</item>
+        <item>Main Dish</item>
+        <item>Salad</item>
+        <item>Dessert</item>
+    </string-array>
+</resources>

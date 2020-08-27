@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "title":"Food1",
+      "type":"Breakfast",
+      "image": "https://www.edamam.com/web-img/341/3417c234dadb687c0d3a45345e86bff4.jpg",
+      "ingredients": [ "1 cup of white rice", "1 green onion", "1 sausage", "2 cloves of garlic" ],
+      "steps": ["step1: cook rice", "step2: cut green onion and sausage", "step3: fry everything together", "step4: Serve"]
+
+    },
+    {
+      "title":"Food2",
+      "type":"Breakfast",
+      "image": "https://www.edamam.com/web-img/c7d/c7d9644d5e696ec0a99af1563d3f3fc3.jpg",
+      "ingredients": ["10 pieces of chicken", "vegetable oil", "frying powder" ],
+      "steps": ["step1: heat up the oil", "step2: fry the chicken", "step3: Serve"]
+
+    },
+    {
+      "title":"Food3",
+      "type":"Main Dish",
+      "image": "https://www.edamam.com/web-img/f06/f062a39915fe22cf47ddd21ce03e78db.jpg",
+      "ingredients": [ "1 packet of noodle", "3 pieces of chicken"],
+      "steps": ["step1: boil the noodles", "step2: fry the meat", "step3: add seasoning", "step4: Serve"]
+
+    },
+    {
+      "title":"Food4",
+      "type":"Main Dish",
+      "image": "https://www.edamam.com/web-img/fb3/fb3bc87fd98258e3151e4e1604e5db1a.jpg",
+      "ingredients": [ "1 bowl of flour", "3 spoonful of korean seasoning" ],
+      "steps": ["step1: beat the flour", "step2: mix the flour with seasoning", "step3: cook the mixture", "step4: Serve"]
+
+    },
+    {
+      "title":"Food5",
+      "type":"Main Dish",
+      "image": "https://www.edamam.com/web-img/d14/d14cd8ea9dfafe5836f96a6b0f2e6da1.jpg",
+      "ingredients": [ "1 spoonful of cream", "1 packet of curry", "1 sausage" ],
+      "steps": ["step1: cook the curry", "step2: fry the sausage", "step3: make the cream", "step4: put together", "step5: Serve"]
+
+    },
+    {
+      "title":"Food6",
+      "type":"Salad",
+      "image": "https://www.edamam.com/web-img/6d3/6d330326a8537689db909a91767595b6.jpg",
+      "ingredients": [ "1 cup of flour", "1 spoonful of butter" ],
+      "steps": ["step1: mix the flour", "step2: mix flour with butter", "step3: bake the mixture in oven", "step4: Serve"]
+
+    },
+    {
+      "title":"Food7",
+      "type":"Salad",
+      "image": "https://www.edamam.com/web-img/1d0/1d0075b30ec5fc368ce9ccaf3156462a.jpg",
+      "ingredients": [ "3 eggs", "1 green onion", "1 minced meat" ],
+      "steps": ["step1: mix egg with minced meat", "step2: add in the green onion", "step3: fry the mixture", "step4: Serve"]
+
+    },
+    {
+      "title":"Food8",
+      "type":"Dessert",
+      "image": "https://www.edamam.com/web-img/a5a/a5a5a0716d6e7ff4f020c86e546c1013.jpg",
+      "ingredients": [ "2 slices of mango", "1 cup of milk" ],
+      "steps": ["step1: put the sliced mango and milk into the mixer and mix", "step2: blend it with ice", "step3: Serve"]
+
+    },
+    {
+      "title":"Food9",
+      "type":"Dessert",
+      "image": "https://www.edamam.com/web-img/af6/af6e66d2d8b8de01a99d7587429223ae.jpg",
+      "ingredients": [ "1 tablespoon of gelatine", "strawberries", "1 cup of milk" ],
+      "steps": ["step1: mix milk with gelatine", "step2: heat up the mixture", "step3: put the mixture in the fridge to cool", "step4: decorate with sliced strawberries", "step5: Serve"]
+
+    }
+  ]
+}
